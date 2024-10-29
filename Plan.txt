@@ -1,0 +1,12 @@
+
+Header - Break-up
+
+Header - section 
+Warapper
+Nav - Logo(Left) (Middle)-Home, About, Destination, Tour, Blog (Right) Login and Signup
+
+Header-left - H1 (Three line text), P (three line), Discover (Outline btn)
+
+Header-right - Image, 3 div (box)
+
+Bottom middle (Location, Date, Guest), Explore btn.
